@@ -1,0 +1,45 @@
+# Maven target directory
+/target/
+
+# Maven wrapper files
+.mvn/wrapper/maven-wrapper.jar
+mvnw
+mvnw.cmd
+
+# Logs
+*.log
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+out/
+
+# Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+# NetBeans
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Java
+*.class
+
+# Environment & secrets
+*.env
+application.properties
+application.yml
