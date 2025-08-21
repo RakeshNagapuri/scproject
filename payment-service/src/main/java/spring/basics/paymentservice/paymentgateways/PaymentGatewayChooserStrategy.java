@@ -13,6 +13,6 @@ public class PaymentGatewayChooserStrategy {
 
 
     public IPaymentGateway getPaymentGateway() {
-        return razorPaymentGateway;
+        return stripePaymentGateway;
     }
 }
